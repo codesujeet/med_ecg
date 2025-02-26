@@ -1,7 +1,6 @@
 import streamlit as st
 from pathlib import Path
 import google.generativeai as genai
-from google_api_key import google_api_key
 import pydicom
 import wfdb
 import numpy as np
